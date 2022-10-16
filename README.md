@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/badge/Preview-2-JS)
 
-![Preview](./Image/accordian-2.png)
+![Preview](./Image/accordian-2.PNG)
 
 
 # Contact Me ![](https://img.shields.io/badge/Feel%20free-to%20connect-blue)
